@@ -13,6 +13,6 @@ for i in range(0,N): # 주어진 범위
         sum += scores[i] # SUM
 
 #[3] Output(출력):
-print(f"{N}명의 점수 중 80점 이상의 총점: {sum}")
+print(f'{N}명의 점수 중 80점 이상의 총점: {sum}')
 
 #[!] 디버거 사용하기: F9 -> F5-> F11 -> F5
