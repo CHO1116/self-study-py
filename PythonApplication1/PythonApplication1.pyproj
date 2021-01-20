@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6194c740-edbc-4db8-99ef-f6908358ef3e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>MaxAlgorithm.py</StartupFile>
+    <StartupFile>MinAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,6 +31,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="MaxAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MinAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="mypy1.py">
