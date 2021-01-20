@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6194c740-edbc-4db8-99ef-f6908358ef3e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>mypy2.py</StartupFile>
+    <StartupFile>SumAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="mypy2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SumAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
