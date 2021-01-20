@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6194c740-edbc-4db8-99ef-f6908358ef3e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CountAlgorithm.py</StartupFile>
+    <StartupFile>AverageAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ArithmeticSequence.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AverageAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CountAlgorithm.py">
