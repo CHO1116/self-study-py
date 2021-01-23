@@ -33,6 +33,9 @@
     <Compile Include="MaxAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MergeAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="MinAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
