@@ -39,6 +39,9 @@
     <Compile Include="MinAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ModeAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="mypy1.py">
       <SubType>Code</SubType>
     </Compile>
