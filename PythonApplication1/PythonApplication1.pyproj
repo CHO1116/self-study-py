@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6194c740-edbc-4db8-99ef-f6908358ef3e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SearchAlgorithm.py</StartupFile>
+    <StartupFile>GroupAlgorithm.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CountAlgorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GroupAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="MaxAlgorithm.py">
@@ -63,6 +66,9 @@
     <Compile Include="SumAlgorithm.py">
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="testcase.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
